@@ -35,7 +35,7 @@
   <a href="https://www.linkedin.com/in/teferi-mulatu-0849112bb">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="t.me/Dontstressdoyourbest">
+  <a href="https://t.me/Dontstressdoyourbest">
     <img src="https://img.shields.io/badge/Telegram-1DA1F2?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://github.com/TeferiMulatu">
