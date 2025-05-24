@@ -32,7 +32,7 @@
 
 ### 🤝 Connect With Me
 <p>
-  <a href="https://linkedin.com/in/your-linkedin-profile">
+  <a href="https://www.linkedin.com/in/teferi-mulatu-0849112bb">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/your-twitter-handle">
