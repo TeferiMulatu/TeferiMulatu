@@ -14,7 +14,6 @@
 - 🚀 I’m working on building **creative projects** that solve real-world problems
 - 💬 Ask me about **JavaScript**, **Python**, or **web development**
 - 📫 How to reach me: **temu54321@gmail.com**
-- 🌐 Check out my portfolio: [TeMu.com](https://your-portfolio-link.com)
 
 ---
 
@@ -25,7 +24,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/ASP.NET_MVC-0078D4?style=for-the-badge&logo=Asp.net&logoColor=white" alt="Asp.Net" />
 </p>
 
 ---
