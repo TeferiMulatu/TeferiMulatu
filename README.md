@@ -2,11 +2,6 @@
 <h1 align="center">Hi 👋, I'm Teferi Mulatu</h1>
 <h3 align="center">A passionate Computer Science student exploring the world of technology</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/your-username?style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/your-username?style=social" alt="Stars" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
