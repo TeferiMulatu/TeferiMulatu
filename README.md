@@ -97,7 +97,7 @@
 <hr/>
 
 <p align="center" style="color: #777; font-size: 12px;">
-  Made with ❤️ by Teferi Mulati
+  Made with ❤️ by Teferi Mulatu
 </p>
 -->
 <!---
