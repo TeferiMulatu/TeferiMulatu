@@ -5,7 +5,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🖥️ I’m currently learning **full-stack development** and **data science**
+- 🖥️ I’m currently learning **full-stack development**
 - 🚀 I’m working on building **creative projects** that solve real-world problems
 - 💬 Ask me about **JavaScript**, **Python**, or **web development**
 - 📫 How to reach me: **temu54321@gmail.com**
