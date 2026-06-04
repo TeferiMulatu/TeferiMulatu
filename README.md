@@ -41,16 +41,6 @@ I am a passionate Computer Science graduate focused on building scalable, perfor
 
 ---
 
-### 📈 GitHub Stats
-
-### 📈 Activity Graph
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TeferiMulatu&theme=react-dark" alt="Teferi's Activity Graph" width="100%" />
-</p>
-
----
-
 ### 🤝 Connect with Me
 
 * 📧 **Email:** [temu54321@gmail.com](mailto:temu54321@gmail.com)
