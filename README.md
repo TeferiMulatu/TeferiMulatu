@@ -1,106 +1,60 @@
- <!-- Profile README -->
-<h1 align="center">Hi 👋, I'm Teferi Mulatu</h1>
-<h3 align="center">A passionate Computer Science student exploring the world of technology</h3>
+# 👋 Hi, I'm Teferi Mulatu (Esubalew)
+### Computer Science Graduate & Full-Stack Developer 🚀
+
+I am a passionate Computer Science graduate focused on building scalable, performant, and visually stunning web applications. My core expertise lies in modern JavaScript/TypeScript ecosystems, specifically crafting seamless user experiences with React/Next.js and robust backend services with Express.js.
 
 ---
 
-### 👨‍💻 About Me
-- 🖥️ I’m currently learning **full-stack development**
-- 🚀 I’m working on building **creative projects** that solve real-world problems
-- 💬 Ask me about **JavaScript**, **Python**, or **web development**
-- 📫 How to reach me: **temu54321@gmail.com**
+### 🧰 Tech Stack & Tools
+
+#### **Frontend Development**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+#### **Backend & Databases**
+![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### **Tools & Workflow**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Featured Projects
+
+#### 🔨 **Online Auction Management System**
+*A real-time digital bidding platform built to handle secure transactions and live updates.*
+* **Stack:** React, Tailwind CSS, Express.js, MongoDB, WebSockets.
+* **Key Features:** Real-time dynamic bidding, secure user authentication, dashboard analytics for buyers and sellers.
+
+#### 🌐 **Component-Driven Developer Portfolio**
+*A sleek, modular showcase of my work designed with reusability and performance in mind.*
+* **Stack:** Vite + React, TypeScript, Tailwind CSS, Framer Motion.
+
+---
+
+### 📈 GitHub Stats
+
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/ASP.NET_MVC-0078D4?style=for-the-badge&logo=Asp.net&logoColor=white" alt="Asp.Net" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TeferiMulatu&show_icons=true&theme=visual_studio_dark&count_private=true" alt="Teferi's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeferiMulatu&layout=compact&theme=visual_studio_dark" alt="Top Languages" height="180px" />
 </p>
 
 ---
 
-### 🤝 Connect With Me
-<p>
-  <a href="https://www.linkedin.com/in/teferi-mulatu-0849112bb">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://t.me/Dontstressdoyourbest">
-    <img src="https://img.shields.io/badge/Telegram-1DA1F2?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://github.com/TeferiMulatu">
-    <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+### 🤝 Connect with Me
 
----
+* 📧 **Email:** [temu54321@gmail.com](mailto:temu54321@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/teferi-mulatu-0849112bb](https://www.linkedin.com/in/teferi-mulatu-0849112bb)
+* ✈️ **Telegram:** [@Dontstressdoyourbest](https://t.me/Dontstressdoyourbest)
+* 📂 **GitHub:** [github.com/TeferiMulatu](https://github.com/TeferiMulatu)
 
-<p align="center">
-  🌟 <i>Inspired by technology, driven by curiosity, and always learning.</i> 🌟
-</p>
- <!-- README.md 
-<h1 align="center" style="color: #4CAF50; font-size: 48px;">Welcome to Teferi Mulati's Project</h1>
-
-<p align="center" style="font-size: 20px; color: #555;">
-  <b>Hi there!</b> I'm Teferi Mulatu, a <i>Computer Science student</i> passionate about programming, web development, and all things tech. 🚀
-</p>
-
-<p align="center" style="color: #888;">
-  <a href="https://www.linkedin.com/in/your-linkedin/">LinkedIn</a> •
-  <a href="https://twitter.com/your-twitter">Twitter</a> •
-  <a href="https://github.com/your-github">GitHub</a>
-</p>
-
-<hr/>
-
-<h2 style="color: #333;">📜 Project Overview</h2>
-<p>
-  This project is all about <b>creating beautiful software solutions</b>. Whether it's a cutting-edge website, an interactive app, or a cool algorithm, I aim to make it shine ✨.
-</p>
-
-<h2 style="color: #333;">🔧 Technologies Used</h2>
-<ul>
-  <li style="color: #444;">HTML5</li>
-  <li style="color: #444;">CSS3</li>
-  <li style="color: #444;">JavaScript</li>
-  <li style="color: #444;">Python</li>
-</ul>
-
-<h2 style="color: #333;">📂 Folder Structure</h2>
-<pre style="background-color: #f4f4f4; padding: 10px;">
-.
-├── index.html
-├── style.css
-├── script.js
-├── README.md
-└── assets/
-</pre>
-
-<h2 style="color: #333;">🛠️ Installation</h2>
-<p>
-  1. Clone the repository:<br/>
-  <code>git clone https://github.com/your-github/project-name.git</code>
-</p>
-<p>
-  2. Open the <code>index.html</code> file in your browser.
-</p>
-
-<h2 style="color: #333;">📧 Contact</h2>
-<p>
-  Reach out to me at <a href="mailto:your.email@example.com">your.email@example.com</a> for any queries or collaborations.
-</p>
-
-<hr/>
-
-<p align="center" style="color: #777; font-size: 12px;">
-  Made with ❤️ by Teferi Mulatu
-</p>
--->
-<!---
-TeferiMulatu/TeferiMulatu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⚡ *Fun fact: When I'm not coding full-stack applications, I'm exploring advanced video editing workflows and diving into Windows power-user automation!*
