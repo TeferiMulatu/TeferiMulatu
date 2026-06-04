@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Teferi Mulatu (Esubalew)
+# 👋 Hi, I'm Teferi Mulatu 
 ### Computer Science Graduate & Full-Stack Developer 🚀
 
 I am a passionate Computer Science graduate focused on building scalable, performant, and visually stunning web applications. My core expertise lies in modern JavaScript/TypeScript ecosystems, specifically crafting seamless user experiences with React/Next.js and robust backend services with Express.js.
@@ -54,7 +54,6 @@ I am a passionate Computer Science graduate focused on building scalable, perfor
 
 * 📧 **Email:** [temu54321@gmail.com](mailto:temu54321@gmail.com)
 * 💼 **LinkedIn:** [linkedin.com/in/teferi-mulatu-0849112bb](https://www.linkedin.com/in/teferi-mulatu-0849112bb)
-* ✈️ **Telegram:** [@Dontstressdoyourbest](https://t.me/Dontstressdoyourbest)
 * 📂 **GitHub:** [github.com/TeferiMulatu](https://github.com/TeferiMulatu)
 
 ⚡ *Fun fact: When I'm not coding full-stack applications, I'm exploring advanced video editing workflows and diving into Windows power-user automation!*
