@@ -44,7 +44,7 @@ I am a passionate Computer Science graduate focused on building scalable, perfor
 ### 🤝 Connect with Me
 
 * 📧 **Email:** [temu54321@gmail.com](mailto:temu54321@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/teferi-mulatu-0849112bb](https://www.linkedin.com/in/teferi-mulatu)
+* 💼 **LinkedIn:** [linkedin.com/in/teferi-mulatu](https://www.linkedin.com/in/teferi-mulatu)
 * 📂 **GitHub:** [github.com/TeferiMulatu](https://github.com/TeferiMulatu)
 
 ⚡ *Fun fact: When I'm not coding full-stack applications, I'm exploring advanced video editing workflows and diving into Windows power-user automation!*
