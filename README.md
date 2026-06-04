@@ -43,14 +43,10 @@ I am a passionate Computer Science graduate focused on building scalable, perfor
 
 ### 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TeferiMulatu&show_icons=true&theme=visual_studio_dark&count_private=true" alt="Teferi's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeferiMulatu&layout=compact&theme=visual_studio_dark" alt="Top Languages" height="180px" />
-</p>
-### 📈 GitHub Stats
+### 📈 Activity Graph
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TeferiMulatu&theme=visual_studio_dark" alt="Teferi's GitHub Stats" height="180px" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TeferiMulatu&theme=react-dark" alt="Teferi's Activity Graph" width="100%" />
 </p>
 
 ---
